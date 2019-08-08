@@ -1312,12 +1312,20 @@
     content: "\f0db"
 }
 
+.fa-guitar:before {
+    content: "\f7a6"
+}
+
 .fa-comment:before {
     content: "\f075"
 }
 
 .fa-comment-alt:before {
     content: "\f27a"
+}
+
+.fa-microscope:before {
+    content: "\f610"
 }
 
 .fa-comment-dollar:before {
