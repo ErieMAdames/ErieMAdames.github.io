@@ -9,7 +9,7 @@
 
 #galeriapic {
     width: 100%;
-    max-width: 91vw;
+    max-width: 91vw!important;
     transition: 0.3s;
 }
 
