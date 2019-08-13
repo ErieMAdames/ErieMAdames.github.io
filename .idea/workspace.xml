@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c325878-42a0-4bf4-b38c-c0d70ae96414" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,15 +19,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-512">
+            <state relative-caret-position="-208">
               <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="61" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/pic02.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -37,6 +32,16 @@
               <caret line="1324" column="1" selection-start-line="1324" selection-start-column="1" selection-end-line="1324" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/IT interns.jpeg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/galeria.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -69,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/projects/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="88" column="57" selection-start-line="88" selection-start-column="57" selection-end-line="88" selection-end-column="57" />
+            <state relative-caret-position="605">
+              <caret line="90" column="73" selection-start-line="90" selection-start-column="73" selection-end-line="90" selection-end-column="73" />
               <folding>
                 <element signature="e#1896#1901#0" expanded="true" />
               </folding>
@@ -81,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+            <state relative-caret-position="256">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
               <folding>
                 <element signature="e#37742#38250#2" expanded="true" />
               </folding>
@@ -170,12 +175,6 @@
             <path>
               <item name="ErieMAdames.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ErieMAdames.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ErieMAdames.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ErieMAdames.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="projects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -244,12 +243,12 @@
       <workItem from="1565229389104" duration="3393000" />
       <workItem from="1565266495580" duration="2715000" />
       <workItem from="1565269352087" duration="6658000" />
-      <workItem from="1565723084869" duration="11075000" />
+      <workItem from="1565723084869" duration="12715000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42878000" />
+    <option name="totallyTimeSpent" value="44518000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -297,9 +296,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/noscript.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/IT interns.jpeg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/pic06.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -353,15 +349,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-512">
+        <state relative-caret-position="-208">
           <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="61" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/IT interns.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/galeria.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        <state relative-caret-position="256">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
           <folding>
             <element signature="e#37742#38250#2" expanded="true" />
           </folding>
@@ -370,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/projects/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="88" column="57" selection-start-line="88" selection-start-column="57" selection-end-line="88" selection-end-column="57" />
+        <state relative-caret-position="605">
+          <caret line="90" column="73" selection-start-line="90" selection-start-column="73" selection-end-line="90" selection-end-column="73" />
           <folding>
             <element signature="e#1896#1901#0" expanded="true" />
           </folding>
