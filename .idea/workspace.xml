@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c325878-42a0-4bf4-b38c-c0d70ae96414" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resume/Erie M. Adames Resume.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resume/ErieMAdamesResume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/Erie M. Adames Resume.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resume/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+            <state relative-caret-position="304">
+              <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
               <folding>
                 <element signature="e#3498#3505#0" expanded="true" />
               </folding>
@@ -212,21 +212,21 @@
       <workItem from="1565266495580" duration="2715000" />
       <workItem from="1565269352087" duration="6658000" />
       <workItem from="1565723084869" duration="19070000" />
-      <workItem from="1565920180022" duration="4995000" />
+      <workItem from="1565920180022" duration="5322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55868000" />
+    <option name="totallyTimeSpent" value="56195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="970" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.222103" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.30793992" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.20230608" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.20230608" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.32917964" />
       <window_info anchor="bottom" id="GitLabIntegration" order="3" />
@@ -352,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resume/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="48" column="10" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+        <state relative-caret-position="304">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
           <folding>
             <element signature="e#3498#3505#0" expanded="true" />
           </folding>
