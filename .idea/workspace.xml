@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c325878-42a0-4bf4-b38c-c0d70ae96414" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/ErieMAdamesResume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/resume/Erie M. Adames Resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resume/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/resume/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="4c325878-42a0-4bf4-b38c-c0d70ae96414" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -108,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="970" />
     <option name="height" value="1087" />
@@ -212,16 +208,15 @@
       <workItem from="1565266495580" duration="2715000" />
       <workItem from="1565269352087" duration="6658000" />
       <workItem from="1565723084869" duration="19070000" />
-      <workItem from="1565920180022" duration="5322000" />
+      <workItem from="1565920180022" duration="7533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56195000" />
+    <option name="totallyTimeSpent" value="58406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="970" height="1087" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.30793992" />
